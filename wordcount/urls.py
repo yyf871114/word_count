@@ -22,6 +22,7 @@ urlpatterns = [
     path('', function.home),
     path('home1/', function.home1),
     path('home1/count/', function.count),
+    path('home1/about/', function.about),
 ]
 
 
